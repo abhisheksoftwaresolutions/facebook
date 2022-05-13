@@ -228,3 +228,128 @@ uname
 git --version
 yum install git -y
 sudo su -
+uname'
+uname
+uname
+cd ~/Desktop/EC2PemFiles/
+yum install git -y
+exit
+sudo su -
+uname
+git init
+touch mubeen.txt
+git status
+git add .
+git status
+git commit
+git commit --global user.name"abhishekmraj" 
+git config --global user.email"abhishekmraj@gmail.com"
+git commit
+git config --global user.name"abhishekmraj" 
+git config --global user.email"abhishekmraj@gmail.com"
+git config --global --list
+git config --global -- list
+git commit
+git commit -m "first commit " mubeen.txt
+git ll
+git add .
+git ll
+git status
+git status mubeen
+git status mubeen.txt
+git remote add facebook
+git remote add facebook https://github.com/abhisheksoftwaresolutions/facebook.git
+git push facebook master
+git log
+cd /etc/ssh/sshd_config
+cat /etc/ssh/sshd_config
+sudo su
+git push facebook master
+uname
+ls -l
+uname
+ls
+ls -l
+tree
+ls -lh
+cd -
+cd ..
+cd ~
+rm dir java
+cd ~/ec2-user
+cd ec2-user
+cd /ec2-user
+pwd
+ls
+rm dir java
+sudo su
+rm -rf java
+ls
+rm -f java.txt
+ls
+find -type f
+/etc/profile
+sudo su
+ls
+uname
+git init
+ vi rajesh
+git status
+git add *
+git status
+git commit
+clear
+git status
+clear
+git config --global user.name"abhishekmraj"
+git config --global user.email"abhishekmraj@gmail.com"
+git config --global --list
+git commit -m "first commit" rajesh
+git ll
+ls
+git log
+git push
+git remote add facebook https://github.com/abhisheksoftwaresolutions/facebook.git
+git push facebook master
+git log
+uname
+git config --global --list
+uname
+git config --global user.name "abhishekmraj"
+git config --global user.email "abhishekmraj@gmail.com"
+git config --global --list
+git commit -m first commit rajesh
+ls
+git rajesh
+git arpi
+git init
+vi arpi
+git status
+git add arpi
+git status
+git commit -m "first commit" arpi
+git ll
+git LL
+uname
+git remote add facebook https://github.com/abhisheksoftwaresolutions/facebook.git
+git push facebook master
+git remote -v
+git push facebook master
+uname
+git push facebook master
+git remote add facebook git@github.com:abhisheksoftwaresolutions/facebook.git
+git push facebook master
+uname
+git remote add amazon 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
+git push amazon master
+git init
+git status
+git config --global --list
+git commit -m "first commit"
+git ll
+git log
+git remote amazon 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
+git remote -v
+git push amazon master
+git remote -v
+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
