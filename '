@@ -1,0 +1,36 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Cloud User <ec2-user@ip-172-31-3-113.ap-south-1.compute.internal>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .bash_history
+#	new file:   .bash_logout
+#	new file:   .bash_profile
+#	new file:   .bashrc
+#	new file:   .ssh/authorized_keys
+#	new file:   .ssh/known_hosts
+#	new file:   .viminfo
+#	new file:   abhilas.xt
+#	new file:   abhilash.txt
+#	new file:   hello.log
+#	new file:   hello.sh
+#	new file:   java.txt
+#	new file:   java/abhilash,txt
+#	new file:   java/abhilash.txt
+#	new file:   java/java2/happy.txt
+#	new file:   java/lnarpi.txt
+#	new file:   java/lnraj.txt
+#	new file:   karthik.txt
+#	new file:   mubeen.txt
+#	new file:   python.txt
+#	new file:   rohit.txt
+#
+# Changes not staged for commit:
+#	modified:   hello.log
+#
